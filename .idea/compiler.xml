@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="security-jwt" />
+        <module name="aaaa" />
+        <module name="hhh" />
+        <module name="qiemian" />
+        <module name="demo" />
+        <module name="xixixi" />
+        <module name="fff" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="aaaa" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="fff" target="1.8" />
+      <module name="hgfhfgh" target="1.8" />
+      <module name="hhh" target="1.8" />
+      <module name="qiemian" target="1.8" />
+      <module name="security-jwt" target="1.8" />
+      <module name="xixixi" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="aaaa" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="fff" options="-parameters" />
+      <module name="hgfhfgh" options="-parameters" />
+      <module name="hhh" options="-parameters" />
+      <module name="qiemian" options="-parameters" />
+      <module name="security-jwt" options="-parameters" />
+      <module name="xixixi" options="-parameters" />
+    </option>
+  </component>
+</project>

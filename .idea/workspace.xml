@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04f68f28-4b14-4d86-ab7b-6ac5729b7505" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\Program Files\JetBrains\IntelliJ IDEA 2019.2.4\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gaMIDNjtTC0Zuu2vxTcqYyesem" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="E:/af-officer" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.example.demo.config" />
+      <recent name="com.zt.securityjwt.next.utils.provider" />
+      <recent name="com.zt.securityjwt.next.utils.config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.xixixi.rabbit" />
+      <recent name="com.example.xixixi.configer" />
+      <recent name="com.example.demo.config" />
+      <recent name="com.zt.securityjwt.authencation.controller" />
+      <recent name="com.example.xixixi.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\springclouddemo\security-jwt\qiemian\src\main\java\com\example\qiemian" />
+      <recent name="E:\springclouddemo\security-jwt\src\main\resources\static" />
+      <recent name="E:\springclouddemo\xixixi\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ActiveRoutingKeyProvvider">
+    <configuration name="ActiveRouteKeyCusumer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.xixixi.rabbit.ActiveRouteKeyCusumer1" />
+      <module name="xixixi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.xixixi.rabbit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActiveRouteKeyCusumer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.xixixi.rabbit.ActiveRouteKeyCusumer2" />
+      <module name="xixixi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.xixixi.rabbit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ActiveRoutingKeyProvvider" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.xixixi.rabbit.ActiveRoutingKeyProvvider" />
+      <module name="xixixi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.xixixi.rabbit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.xixixi.Test" />
+      <module name="xixixi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.xixixi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.xixixi.rabbit.Test2" />
+      <module name="xixixi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.xixixi.rabbit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AaaaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="aaaa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.aaaa.AaaaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="hhh" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.configer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FffApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="fff" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.fff.FffApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HgfhfghApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="hgfhfgh" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.hgfhfgh.HgfhfghApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QiemianApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="qiemian" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.qiemian.QiemianApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityJwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="security-jwt" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zt.securityjwt.SecurityJwtApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XixixiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="xixixi" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.xixixi.XixixiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ActiveRoutingKeyProvvider" />
+        <item itemvalue="Application.ActiveRouteKeyCusumer2" />
+        <item itemvalue="Application.ActiveRouteKeyCusumer1" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04f68f28-4b14-4d86-ab7b-6ac5729b7505" name="Default Changelist" comment="" />
+      <created>1598348168991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598348168991</updated>
+      <workItem from="1598348173818" duration="4587000" />
+      <workItem from="1598433676367" duration="1373000" />
+      <workItem from="1598492608411" duration="17690000" />
+      <workItem from="1598578167669" duration="15358000" />
+      <workItem from="1598839623763" duration="20650000" />
+      <workItem from="1598928385017" duration="19831000" />
+      <workItem from="1599011134912" duration="15143000" />
+      <workItem from="1599199215597" duration="6862000" />
+      <workItem from="1599442164424" duration="1267000" />
+      <workItem from="1599448470276" duration="12733000" />
+      <workItem from="1599528901481" duration="4976000" />
+      <workItem from="1599561294343" duration="310000" />
+      <workItem from="1599614864374" duration="6424000" />
+      <workItem from="1600133358143" duration="1729000" />
+      <workItem from="1600135185252" duration="3699000" />
+      <workItem from="1600139099380" duration="1441000" />
+      <workItem from="1600147249296" duration="262000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../xixixi/src/main/java/com/example/xixixi/configer/JwtService.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../xixixi/src/main/java/com/example/xixixi/configer/UserNamePasswordFilter.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hhh/src/main/java/com/example/demo/configer/RbacAuthorityService.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hhh/src/main/java/com/example/demo/configer/JwtAuthenticationTokenFilter.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../hhh/src/main/java/com/example/demo/configer/OptionsRequestFilter.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../xixixi/src/main/java/com/example/xixixi/configer/JwtAuthenticationTokenFilter.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../xixixi/src/main/java/com/example/xixixi/configer/RbacAuthorityService.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../xixixi/src/main/java/com/example/xixixi/configer/JwtTokenProvider.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="((MethodSignatureImpl)signature).this$0" custom="org.springframework.aop.aspectj.MethodInvocationProceedingJoinPoint.MethodSignatureImpl" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/security_jwt$Test2.ic" NAME="Test2 Coverage Results" MODIFIED="1600137539257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.example.xixixi.rabbit.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/security_jwt$XixixiApplication.ic" NAME="XixixiApplication Coverage Results" MODIFIED="1598859164456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

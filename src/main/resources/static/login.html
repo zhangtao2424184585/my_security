@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="jquery-1.8.3/jquery.min.js"></script>
+</head>
+<body>
+
+username:<input type="text" id="username" name="username"><br>
+password:<input type="password" id="password" name="password"><br>
+<button value="login" onclick="login()">login</button>
+</body>
+<script>
+    function login(){
+        var username = $("#username").val()
+        var password = $("#password").val()
+        var data = {}
+        data.username = username
+        data.password = password
+        $.ajax({
+            url:"http://localhost:8080/login",
+            contentType:"application/json",
+            data:JSON.stringify(data),
+            type:"POST"
+        })
+    }
+</script>
+</html>
